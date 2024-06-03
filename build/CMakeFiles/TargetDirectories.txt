@@ -1,0 +1,3 @@
+/Users/jusungpark/Desktop/Chess Risk Analysis/build/CMakeFiles/ChessRating.dir
+/Users/jusungpark/Desktop/Chess Risk Analysis/build/CMakeFiles/edit_cache.dir
+/Users/jusungpark/Desktop/Chess Risk Analysis/build/CMakeFiles/rebuild_cache.dir
