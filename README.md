@@ -1,6 +1,5 @@
 # Chess Rating Risk Analyzer
 ### Jusung Park
-
 ### Purpose:
 ---
 This program utilizes the Glicko Rating System formula to predict the rating changes that would happen for each game of chess played on Chess.com. The intent is to maximize reward and minimize risk when playing high-speed chess games such as bullet or hyperbullet to decide if the opponent the Player is matched up with is worth playing or whether they should abort. 
@@ -9,6 +8,16 @@ This program utilizes the Glicko Rating System formula to predict the rating cha
 ---
 [Article on Glicko System](./Glicko%20System.pdf)
 The Glicko Rating System is a chess rating system used by Chess.com. It works by providing a more accurate measure of a player's skill by accounting for the rating deviation (RD) which indicates the reliability of a player's rating. The system adjusts a player's rating based on the results of games played and the ratings and RDs of the opponents.
+
+
+### Things I've done
+---
+- installed libcurl4-openssl-dev for making HTTP requests.
+- installed nlohmann/json for parsing JSON responses.
+- 
+
+
+
 
 ### How to Use
 ---
