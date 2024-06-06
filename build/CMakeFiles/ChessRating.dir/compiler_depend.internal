@@ -5,7 +5,9 @@ CMakeFiles/ChessRating.dir/main.cpp.o
  /Users/jusungpark/Desktop/Chess Risk Analysis/main.cpp
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/Availability.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/AvailabilityInternal.h
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/AvailabilityMacros.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/AvailabilityVersions.h
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/TargetConditionals.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/__wctype.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/_ctermid.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/_ctype.h
@@ -775,6 +777,121 @@ CMakeFiles/ChessRating.dir/main.cpp.o
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdarg.h
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stddef.h
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include/stdint.h
- /Users/jusungpark/Desktop/Chess Risk Analysis/LRUCache.h
  /Users/jusungpark/Desktop/Chess Risk Analysis/nlohmann/json.hpp
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/QString
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qalgorithms.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qarraydata.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qatomic.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qatomic_cxx11.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qbasicatomic.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qbytearray.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qbytearraylist.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qchar.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qcompilerdetection.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qconfig.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qcontainerfwd.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qcontainertools_impl.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qcoreapplication.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qcoreevent.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qdatastream.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qeventloop.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qflags.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qgenericatomic.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qglobal.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qglobalstatic.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qhash.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qhashfunctions.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qiodevice.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qiterator.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qline.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qlist.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qlocale.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qlogging.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qmap.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qmargins.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qmetatype.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qmutex.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qnamespace.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qnumeric.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qobject.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qobject_impl.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qobjectdefs.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qobjectdefs_impl.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qpair.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qpoint.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qprocessordetection.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qrect.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qrefcount.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qregexp.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qscopedpointer.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qshareddata.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qsharedpointer.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qsharedpointer_impl.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qsize.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qstring.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qstringalgorithms.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qstringlist.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qstringliteral.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qstringmatcher.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qstringview.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qsysinfo.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qsystemdetection.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qtcore-config.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qtypeinfo.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qvariant.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qvarlengtharray.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qvector.h
+ /opt/homebrew/opt/qt@5/lib/QtCore.framework/Headers/qversiontagging.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qbrush.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qcolor.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qcursor.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qfont.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qfontinfo.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qfontmetrics.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qguiapplication.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qicon.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qimage.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qinputmethod.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qkeysequence.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qmatrix.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qpaintdevice.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qpalette.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qpen.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qpixelformat.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qpixmap.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qpolygon.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qregion.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qrgb.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qrgba64.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qtextcursor.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qtextformat.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qtextoption.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qtgui-config.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qtguiglobal.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qtransform.h
+ /opt/homebrew/opt/qt@5/lib/QtGui.framework/Headers/qwindowdefs.h
+ /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers/QApplication
+ /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers/QHBoxLayout
+ /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers/QLabel
+ /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers/QLineEdit
+ /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers/QMessageBox
+ /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers/QPushButton
+ /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers/QVBoxLayout
+ /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers/QWidget
+ /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers/qabstractbutton.h
+ /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers/qapplication.h
+ /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers/qboxlayout.h
+ /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers/qdialog.h
+ /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers/qframe.h
+ /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers/qgridlayout.h
+ /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers/qlabel.h
+ /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers/qlayout.h
+ /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers/qlayoutitem.h
+ /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers/qlineedit.h
+ /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers/qmessagebox.h
+ /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers/qpushbutton.h
+ /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers/qsizepolicy.h
+ /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers/qtwidgets-config.h
+ /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers/qtwidgetsglobal.h
+ /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/Headers/qwidget.h
 

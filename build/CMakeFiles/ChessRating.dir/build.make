@@ -93,6 +93,10 @@ ChessRating_EXTERNAL_OBJECTS =
 ChessRating: CMakeFiles/ChessRating.dir/main.cpp.o
 ChessRating: CMakeFiles/ChessRating.dir/build.make
 ChessRating: /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/lib/libcurl.tbd
+ChessRating: /opt/homebrew/opt/qt@5/lib/QtWidgets.framework/QtWidgets
+ChessRating: /opt/homebrew/opt/qt@5/lib/QtNetwork.framework/QtNetwork
+ChessRating: /opt/homebrew/opt/qt@5/lib/QtGui.framework/QtGui
+ChessRating: /opt/homebrew/opt/qt@5/lib/QtCore.framework/QtCore
 ChessRating: CMakeFiles/ChessRating.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="/Users/jusungpark/Desktop/Chess Risk Analysis/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ChessRating"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ChessRating.dir/link.txt --verbose=$(VERBOSE)
