@@ -14,7 +14,17 @@ The Glicko Rating System is a chess rating system used by Chess.com. It works by
 ---
 - installed libcurl4-openssl-dev for making HTTP requests.
 - installed nlohmann/json for parsing JSON responses.
-- 
+- installed qt@5 and qt for creating the Qt Window Application GUI for interactivity
+- installed tesseract, the Optical Character Recognition (OCR) library.
+- Risk Analysis:
+    - use Bradley-Terry Model to estimate more realistic probabilities of winning and losing based on the rating difference 
+    - Calculate the risk-reward ratio as the ratio of the potential gain (win) to the potential loss (lose).
+    - Adjust the expected value based on the combined volatility (i.e., the combined RD values of both players) to account for uncertainty
+    - Set thresholds for the minimum acceptable gain and maximum acceptable loss to determine if the game is worth playing.
+    - Recommend continuing if the adjusted expected value is positive, the risk-reward ratio is favorable, and the potential gain is above a minimum threshold.
+    - Available Aborts.
+    - Recommend aborting if the potential loss exceeds a maximum threshold or if the expected value is negative or insufficient.
+    - Scarcity Factor: 
 
 
 
